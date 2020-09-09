@@ -11,11 +11,11 @@ localip = "172.30.112.214"    #the ip address of your Syslog svr (for the 'debug
 
 
 port = 22
-jumphostusername = "user"
-jumphostpassword = "JHOSTTest123"
-username = "cisco"
-ciscoauthpassword = "cisco123"
-ciscoenablepassword = "ciscoenable"
+jumphostusername = "user"               #your jumphost username goes here
+jumphostpassword = "JHOSTTest123"       #your jumphost password goes here
+username = "cisco"                      #your Cisco device username goes here
+ciscoauthpassword = "cisco123"          #your Cisco device password goes here
+ciscoenablepassword = "ciscoenable"     #your Cisco device enable-password goes here
 
 
 
